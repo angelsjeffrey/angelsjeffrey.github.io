@@ -8,6 +8,7 @@ body, html {
 }
 
 h1 {
+  font-family: "Palatino, Bookman, Times";
   color: #FFF;
   position: relative;
   text-align: center;
