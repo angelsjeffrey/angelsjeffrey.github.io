@@ -1,7 +1,9 @@
-<body style="background-color: 40B737;">
+body {
+  background-color: #333;
+}
 
 h1 {
-color: #4ABFDA;
+  color: #FFF;
 }
 
 ul {
@@ -28,6 +30,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #111111;
-  
+  background-color: #111111; 
 }
