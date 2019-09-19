@@ -12,6 +12,10 @@ a:link {
   color: #FFF;
 }
 
+form {
+  display: inline-block;
+}
+
 h1 {
   color: #FFF;
   position: relative;
