@@ -12,6 +12,14 @@ h1 {
   color: #FFF;
   position: relative;
   text-align: center;
+  font size="30";
+}
+
+p {
+  font-family: "Palatino, Bookman, Times";
+  color: #FFF;
+  position: relative;
+  text-align: center;
 }
 
 ul {
